@@ -6,15 +6,11 @@ Description:
     
 Requirements :
   - Python 3.5
-  - Jupyter Notebook
   - Pip
-  - (Libraries) Gensim, Pandas, Numpy, NLTK, Sklearn, loggings
   - Django
   
 How to install : 
-  1.) 
-  2.) 
-  3.) 
+  1.) Download and Install Python 3.5, Pip and Django.
   
 How to use this:
 
