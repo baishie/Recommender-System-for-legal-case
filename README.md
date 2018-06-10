@@ -9,6 +9,7 @@ Requirements :
   - Pip
   - Django
   
+  
 How to install : 
   - Download and Install Python 3.5, Pip and Django.
   - Clone the repository
@@ -16,6 +17,7 @@ How to install :
   - Make migrations (python manage.py makemigrations)
   - Create migrations (python manage.py migrate)
   - Run the server (python manage.py runserver)
+  
   
 How to use this:
 To use this, simply imput facts and details of a case (limited only to Parricide, Murder and Homicide). The system will
