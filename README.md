@@ -11,9 +11,14 @@ Requirements :
   
 How to install : 
   1.) Download and Install Python 3.5, Pip and Django.
+  2.) Clone the repository
+  3.) Install the requirements. (pip install -r requirements.txt)
+  4.) Make migrations (python manage.py makemigrations)
+  5.) Create migrations (python manage.py migrate)
+  6.) Run the server (python manage.py runserver)
   
 How to use this:
+To use this, simply imput facts and details of a case (limited only to Parricide, Murder and Homicide). The system will
+classify the case based on the facts and will then recommend cases that are similar to it.
 
-
-Summary of results:
 
